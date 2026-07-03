@@ -18,3 +18,5 @@ Goroutines – Run the server without blocking the rest of the program.
 Channels – Receive operating system signals.
 Contexts – Give the server up to 5 seconds to finish ongoing work.
 Graceful shutdown – Stop accepting new requests while allowing current requests to complete.
+
+Infrastructure as Code allows cloud infrastructure to be defined using code instead of manual portal operations. This makes infrastructure reproducible, version-controlled, and easier to review. Terraform maintains a state file that tracks deployed resources, enabling it to determine what changes are required without recreating everything.
