@@ -1,3 +1,9 @@
++++
+title = "Containerizing a Go Application with Docker -- Project 1 (Part 2)"
+tags = ["DevOps", "Go"]
+date = "2026-07-05"
++++
+
 # Containerizing a Go Application with Docker -- Project 1 (Part 2)
 
 **Series:** DevOps Project Series\
